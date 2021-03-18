@@ -1,0 +1,32 @@
+
+
+input{
+    width: 300;
+}
+
+
+
+button
+{
+    width: 200px;
+    background-color: white;
+}
+
+body
+{
+background-color: rgb(7, 167, 241);
+}
+
+#login_div
+ {
+     background: white;
+     border-radius: 20px;
+     padding: 10px;
+     float: none;
+ }
+
+ img
+{
+    height: 100px;
+    width: 100px;
+}
